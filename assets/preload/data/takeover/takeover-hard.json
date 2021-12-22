@@ -1598,6 +1598,36 @@
 						88200,
 						3,
 						0
+					],
+					[
+						86550,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						87000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						87300,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						87900,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						88650,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -1659,12 +1689,36 @@
 						0
 					],
 					[
-						90450,
+						90900,
 						1,
 						0
 					],
 					[
-						90900,
+						88950,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						89550,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						90000,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						90300,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						90450,
 						1,
 						0
 					]
@@ -1736,6 +1790,30 @@
 						93300,
 						3,
 						0
+					],
+					[
+						93300,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						91200,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						91650,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						92550,
+						0,
+						0,
+						"Hurt Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -1805,6 +1883,30 @@
 						95250,
 						2,
 						0
+					],
+					[
+						95550,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						93900,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						94350,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						95100,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -2126,6 +2228,30 @@
 						107400,
 						2,
 						0
+					],
+					[
+						105750,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						106200,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						106500,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						107250,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -2195,6 +2321,30 @@
 						109200,
 						3,
 						0
+					],
+					[
+						108000,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						108750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						109500,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						109950,
+						0,
+						0,
+						"Hurt Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -2264,6 +2414,24 @@
 						112050,
 						2,
 						0
+					],
+					[
+						110400,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						111300,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						112500,
+						0,
+						0,
+						"Hurt Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -2318,6 +2486,24 @@
 						113400,
 						0,
 						0
+					],
+					[
+						113100,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						113700,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						114600,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"lengthInSteps": 16,
@@ -3364,6 +3550,24 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 100
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
