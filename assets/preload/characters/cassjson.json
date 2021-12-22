@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-19,
+				-222
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note"
+		},
+		{
+			"offsets": [
+				11,
+				-196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note"
+		},
+		{
+			"offsets": [
+				-20,
+				-210
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-227
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-212
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cass_assets",
+	"position": [
+		20,
+		-10
+	],
+	"healthicon": "cass",
+	"flip_x": true,
+	"healthbar_colors": [
+		216,
+		22,
+		93
+	],
+	"camera_position": [
+		120,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
