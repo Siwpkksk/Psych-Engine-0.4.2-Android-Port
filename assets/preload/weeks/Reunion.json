@@ -1,0 +1,30 @@
+{
+	"storyName": "Reunion",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Cass Week",
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Daddy-Issues",
+			"dad",
+			[
+				106,
+				20,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"Cass",
+		""
+	],
+	"weekName": "Custom Week"
+}

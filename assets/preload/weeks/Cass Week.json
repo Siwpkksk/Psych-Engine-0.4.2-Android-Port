@@ -1,0 +1,48 @@
+{
+	"storyName": "Sadist Sister",
+	"hideFreeplay": false,
+	"weekBackground": "subway",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Cass",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Berzerker",
+			"cass",
+			[
+				146,
+				33,
+				33
+			]
+		],
+		[
+			"Possession",
+			"cass",
+			[
+				146,
+				33,
+				33
+			]
+		],
+		[
+			"Takeover",
+			"cass",
+			[
+				86,
+				0,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
